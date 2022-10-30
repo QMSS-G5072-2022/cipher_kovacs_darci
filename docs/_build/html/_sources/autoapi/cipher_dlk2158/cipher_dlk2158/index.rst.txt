@@ -1,0 +1,22 @@
+:py:mod:`cipher_dlk2158.cipher_dlk2158`
+=======================================
+
+.. py:module:: cipher_dlk2158.cipher_dlk2158
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   cipher_dlk2158.cipher_dlk2158.cipher
+
+
+
+.. py:function:: cipher(text, shift, encrypt=True)
+
+
